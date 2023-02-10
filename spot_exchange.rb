@@ -1,9 +1,9 @@
+require_relative 'currency'
 class SpotExchange
-  include Currency
   attr_accessor base: Currency
   attr_accessor quote: Currency
 
-  def initialize:(base: Currency,quote: Currency) -> void
+  def initialize(base: Currency,quote: Currency)
     @base = base
     @quote = quote
   end
