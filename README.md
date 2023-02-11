@@ -1,8 +1,8 @@
 Set The Following Environmental Variables on windows or linux.
 
-revolut-phone-number
-revolut-pin
-revolut-bot-scouting (set this to true or false.)
+REVOLUT_PHONE_NUMBER
+REVOLUT_PIN
+REVOLUT_BOT_SCOUTING (set this to true or false.true trades, false just scouts.)
 
 enter the authorization pin you recieve on your phone for your phone number. revolut will send this.
 
