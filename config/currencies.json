@@ -1,0 +1,32 @@
+{
+  "currencies": [
+    "AUD",
+    "GBP",
+    "BGN",
+    "CAD",
+    "CZK",
+    "DKK",
+    "EUR",
+    "HKD",
+    "HUF",
+    "ISK",
+    "JPY",
+    "MXN",
+    "MAD",
+    "NZD",
+    "NOK",
+    "PLN",
+    "QAR",
+    "RON",
+    "SAR",
+    "RSD",
+    "SGD",
+    "ZAR",
+    "SEK",
+    "CHF",
+    "THB",
+    "TRY",
+    "USD",
+    "AED"
+  ]
+}
