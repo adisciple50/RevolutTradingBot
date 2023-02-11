@@ -1,6 +1,6 @@
 class TradupCalculator
   attr_accessor results: Array
 
-  def initialize:() -> void
+  def initialize
   end
 end
